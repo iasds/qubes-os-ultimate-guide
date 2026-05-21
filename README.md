@@ -48,10 +48,10 @@ grep -i "hardware" community/user-support.md
 ```
 
 
-## 社区
+## Community
 
-[Qubes OS 中文社区](https://t.me/qubeszh) — Telegram 群组，欢迎加入交流。
-如果你喜欢这个项目，欢迎[请开发者喝杯咖啡 ☕](https://t.me/calalaq) 或赞助代币支持！
+[Qubes OS Chinese Community](https://t.me/qubeszh) — Telegram group.
+If you like this project, [buy the developer a coffee ☕](https://t.me/calalaq) or support with tokens!
 
 ## License
 
