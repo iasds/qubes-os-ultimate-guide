@@ -51,6 +51,7 @@ grep -i "hardware" community/user-support.md
 ## 社区
 
 [Qubes OS 中文社区](https://t.me/qubeszh) — Telegram 群组，欢迎加入交流。
+如果你喜欢这个项目，欢迎[请开发者喝杯咖啡 ☕](https://t.me/calalaq) 或赞助代币支持！
 
 ## License
 
