@@ -51,7 +51,7 @@ grep -i "hardware" community/user-support.md
 ## Community
 
 [Qubes OS Chinese Community](https://t.me/qubeszh) — Telegram group.
-If you like this project, [buy the developer a coffee ☕](https://t.me/calalaq) or support with tokens!
+If you like this project, [buy the developer a coffee ☕](https://t.me/calalaq) or support with LLM tokens!
 
 ## License
 
