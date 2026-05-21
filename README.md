@@ -47,6 +47,11 @@ grep -r "split gpg" community/
 grep -i "hardware" community/user-support.md
 ```
 
+
+## 社区
+
+[Qubes OS 中文社区](https://t.me/qubeszh) — Telegram 群组，欢迎加入交流。
+
 ## License
 
 Original content © Qubes OS Project. This repo is a derivative compilation for educational and reference purposes.
